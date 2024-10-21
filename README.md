@@ -1,4 +1,4 @@
-# UART-Controller-With-Memory
+
 
 # UART Controller with Memory
 This project is a Verilog implementation of a UART (Universal Asynchronous Receiver/Transmitter) controller with a memory buffer. It is designed to facilitate serial communication between a microcontroller or FPGA and external devices using the UART protocol, with support for data buffering.
