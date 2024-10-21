@@ -13,9 +13,9 @@ Parameterizable Design: Allows configuration of various UART parameters (e.g., b
 
 # Design Overview
 The design consists of two primary modules:
-# UART Transmitter: 
+UART Transmitter: 
 Handles the transmission of data from the memory buffer to the UART serial output.
-# UART Receiver:
+UART Receiver:
 Receives incoming data from the UART serial input and stores it in the memory buffer.
 
 # Configuring the UART Controller
